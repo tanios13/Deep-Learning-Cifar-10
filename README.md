@@ -7,6 +7,9 @@ Train and test a multi layer network.
 * Implement a deep network from scratch
 * Use of python libraries like numpy, matplotlib and tensorflow
 * Better understanding of the theory of gradient descent and back propagation
+* Implement a k-layer deep network from scratch, with batch noramlization and scale and shift.
+* Better understanding of initialization of the parameter of network
+* Coarse Search of hyperparameter like lambda
 
 <!-- GETTING STARTED -->
 ## Getting Started
